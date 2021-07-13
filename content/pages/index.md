@@ -15,7 +15,7 @@ sections:
     align: left
     padding_top: small
     padding_bottom: small
-    background_color: primary
+    background_color: secondary
     background_image_size: auto
   - type: grid_section
     title: Image Grid
