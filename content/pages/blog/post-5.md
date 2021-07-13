@@ -1,5 +1,5 @@
 ---
-title: Curve Newsletter
+title: 'Curve Newsletter #'
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
